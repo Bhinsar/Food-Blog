@@ -6,14 +6,17 @@ It is my first Full stack project in which I have add private routes and login f
 
 #What I have use
 I had use 
+
 #Frontend
 - vite React
 - Tailwind
 - Axios to connect with backend
 - react icons
+  
 #Backend
 - Node
 - express
 - multer to download the image files
+  
 #Database
 - MongoDB
