@@ -8,10 +8,10 @@ It is my first Full stack project in which I have add private routes and login f
 I had use 
 
 # Frontend
-- vite React
+- Vite React
 - Tailwind
 - Axios to connect with backend
-- react icons
+- React icons
   
 # Backend
 - Node
